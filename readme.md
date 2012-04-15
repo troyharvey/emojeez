@@ -33,3 +33,6 @@ This project was created for a guest lecture about mobile web applications for t
 3. [Emojinator](http://www.apple.com/webapps/utilities/emojinator.html)
 4. [Twitter Symbols](http://twsym.com/)
 5. [iPhone Emoji](http://barrow.io/posts/iphone-emoji/)
+6. [The Most Important Parts of HTML5](http://blog.n01se.net/?p=375)
+7. [caniuse.com](http://caniuse.com/)
+8. [Dive Into HTML5](http://diveintohtml5.info/)
