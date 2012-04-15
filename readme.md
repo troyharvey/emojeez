@@ -1,4 +1,5 @@
-# emojⓔⓔz - Icons for Twitter, Facebook, Instagram, Tumblr, and other social networks
+# emojⓔⓔz 
+Icons for Twitter, Facebook, Instagram, Tumblr, and the web.
 
 This project was created for a guest lecture about mobile web applications for the CIS 350 Infrastructure Technologies course at [UofL](http://business.louisville.edu/) College of Business.
 
