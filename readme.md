@@ -22,6 +22,8 @@ This project was created for a guest lecture about mobile web applications for t
   * "[Everything you always wanted to know about touch icons](http://mathiasbynens.be/notes/touch-icons)"
   * Use the startup image to make it look like part of your UI has loaded.
 6. Add a [bookmark bubble](http://code.google.com/p/mobile-bookmark-bubble/) to notify the user that the site is an installable web app.
+7. Buy a [domain name](http://lifehacker.com/5683682/five-best-domain-name-registrars) and [web hosting](http://webmasters.stackexchange.com/questions/20838/how-to-find-web-hosting-that-meets-my-requirements) or host your site with [GitHub Pages](http://pages.github.com/).
+8. Add measurements with [Google Analytics](https://www.google.com/analytics/).
 
 ## References
 1. [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
