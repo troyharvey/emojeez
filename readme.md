@@ -17,7 +17,10 @@ This project was created for a talk on mobile web applications
   * Also read "[Eloquent JavaScript](http://eloquentjavascript.net/)"
   * And the [MDN documentation](https://developer.mozilla.org/en/JavaScript)
   * And learn [jQuery](http://jquery.com). The Tuts+ "[30 Days to Learn jQuery](http://tutsplus.com/course/30-days-to-learn-jquery/)" video series is great.
-5. Add iOS homescreen icons and splash images
+5. Add iOS homescreen icons and startup images
+  * "[Everything you always wanted to know about touch icons](http://mathiasbynens.be/notes/touch-icons)"
+  * Use the startup image to make it look like part of your UI has loaded.
+
 
 ## TODO
 1. Send clipboard to social networks using APIs or URI schemes.
@@ -48,3 +51,4 @@ This project was created for a talk on mobile web applications
 2. [Glyphboard](http://mrgan.com/gb/)
 3. [Emojinator](http://www.apple.com/webapps/utilities/emojinator.html)
 4. [Twitter Symbols](http://twsym.com/)
+5. [iPhone Emoji](http://barrow.io/posts/iphone-emoji/)
