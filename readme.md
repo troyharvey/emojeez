@@ -22,30 +22,6 @@ This project was created for a guest lecture about mobile web applications for t
   * Use the startup image to make it look like part of your UI has loaded.
 6. Add a [bookmark bubble](http://code.google.com/p/mobile-bookmark-bubble/) to notify the user that the site is an installable web app.
 
-## TODO
-1. Send clipboard to social networks using APIs or URI schemes.
-  * [iPhone URL Schemes](http://wiki.akosma.com/IPhone_URL_Schemes)
-  * [URL Scheme Index](http://handleopenurl.com/scheme/tweetbot)
-  * [Wikipedia URI Scheme](http://en.wikipedia.org/wiki/URI_scheme)
-
-    #facebook {
-      display:inline-block;
-      top:90px; right:2px;
-      position:fixed;
-    }
-
-    #twitter {
-     display:inline-block;
-      top:90px; right:32px;
-      position:fixed; 
-    }
-
-    <a id="facebook" href="fb://publish/?text=✳✴➺➼➝➟"><img src="http://www.cord.edu/images/template/facebook_icon.png" border="0" /></a>
-    <a id="twitter" href="tweetbot:///post?text=✳✴➺➼➝➟"><img src="http://www.cord.edu/images/template/twitter_icon.png" border="0" /></a>
-
-2. Don't show the keyboard, [select all the text automatically](http://www.thecssninja.com/demo/clipboard/) when the `textarea` is tapped.
-3. 
-
 ## References
 1. [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 2. [Glyphboard](http://mrgan.com/gb/)
