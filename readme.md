@@ -3,6 +3,7 @@ Icons for Twitter, Facebook, Instagram, Tumblr, and the web.
 
 This project was created for a guest lecture about mobile web applications for the CIS 350 Infrastructure Technologies course at [UofL](http://business.louisville.edu/) College of Business.
 
+## A Mobile Web App from scratch
 1. Start with [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile).
   * Like starting a new presentation with a template.
   * A solid baseline for mobile web apps.
@@ -24,6 +25,7 @@ This project was created for a guest lecture about mobile web applications for t
 6. Add a [bookmark bubble](http://code.google.com/p/mobile-bookmark-bubble/) to notify the user that the site is an installable web app.
 7. Buy a [domain name](http://lifehacker.com/5683682/five-best-domain-name-registrars) and [web hosting](http://webmasters.stackexchange.com/questions/20838/how-to-find-web-hosting-that-meets-my-requirements) or host your site with [GitHub Pages](http://pages.github.com/).
 8. Add measurements with [Google Analytics](https://www.google.com/analytics/).
+9. Add [Twitter](https://twitter.com/about/resources/buttons), [Facebook](http://developers.facebook.com/docs/reference/plugins/like/), and [Google+](http://www.google.com/webmasters/+1/button/) buttons to your site.
 
 ## References
 1. [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
