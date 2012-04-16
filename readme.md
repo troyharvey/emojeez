@@ -26,6 +26,7 @@ This project was created for a guest lecture about mobile web applications for t
 7. Buy a [domain name](http://lifehacker.com/5683682/five-best-domain-name-registrars) and [web hosting](http://webmasters.stackexchange.com/questions/20838/how-to-find-web-hosting-that-meets-my-requirements) or host your site with [GitHub Pages](http://pages.github.com/).
 8. Add measurements with [Google Analytics](https://www.google.com/analytics/).
 9. Add [Twitter](https://twitter.com/about/resources/buttons), [Facebook](http://developers.facebook.com/docs/reference/plugins/like/), and [Google+](http://www.google.com/webmasters/+1/button/) buttons to your site.
+10. Automate [your Help Desk workflow](https://developers.google.com/apps-script/articles/helpdesk_tutorial).
 
 ## References
 1. [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
@@ -33,3 +34,6 @@ This project was created for a guest lecture about mobile web applications for t
 3. [Emojinator](http://www.apple.com/webapps/utilities/emojinator.html)
 4. [Twitter Symbols](http://twsym.com/)
 5. [iPhone Emoji](http://barrow.io/posts/iphone-emoji/)
+6. [Touch Gesture Reference Guide](http://www.lukew.com/ff/entry.asp?1071)
+7. [Mobile First](http://static.lukew.com/MobileFirst_LukeW.pdf) deck by Luke Wroblewski
+8. 
