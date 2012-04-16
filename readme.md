@@ -4,6 +4,7 @@ Icons for Twitter, Facebook, Instagram, Tumblr, and the web.
 This project was created for a guest lecture about mobile web applications for the CIS 350 Infrastructure Technologies course at [UofL](http://business.louisville.edu/) College of Business.
 
 ## A Mobile Web App from scratch
+0. You need ideas. I email myself with `#ideas` in the subject.
 1. Start with [HTML5 Mobile Boilerplate](http://html5boilerplate.com/mobile).
   * Like starting a new presentation with a template.
   * A solid baseline for mobile web apps.
@@ -36,4 +37,6 @@ This project was created for a guest lecture about mobile web applications for t
 5. [iPhone Emoji](http://barrow.io/posts/iphone-emoji/)
 6. [Touch Gesture Reference Guide](http://www.lukew.com/ff/entry.asp?1071)
 7. [Mobile First](http://static.lukew.com/MobileFirst_LukeW.pdf) deck by Luke Wroblewski
-8. 
+7. [The Most Important Parts of HTML5](http://blog.n01se.net/?p=375)
+8. [caniuse.com](http://caniuse.com/)
+9. [Dive Into HTML5](http://diveintohtml5.info/)
