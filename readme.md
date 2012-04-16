@@ -24,10 +24,11 @@ This project was created for a guest lecture about mobile web applications for t
   * "[Everything you always wanted to know about touch icons](http://mathiasbynens.be/notes/touch-icons)"
   * Use the startup image to make it look like part of your UI has loaded.
 6. Add a [bookmark bubble](http://code.google.com/p/mobile-bookmark-bubble/) to notify the user that the site is an installable web app.
-7. Buy a [domain name](http://lifehacker.com/5683682/five-best-domain-name-registrars) and [web hosting](http://webmasters.stackexchange.com/questions/20838/how-to-find-web-hosting-that-meets-my-requirements) or host your site with [GitHub Pages](http://pages.github.com/).
-8. Add measurements with [Google Analytics](https://www.google.com/analytics/).
-9. Add [Twitter](https://twitter.com/about/resources/buttons), [Facebook](http://developers.facebook.com/docs/reference/plugins/like/), and [Google+](http://www.google.com/webmasters/+1/button/) buttons to your site.
-10. Automate [your Help Desk workflow](https://developers.google.com/apps-script/articles/helpdesk_tutorial).
+7. Add a [Cache Manifest](http://www.html5rocks.com/en/tutorials/appcache/beginner/) to make it [work offline](http://diveintohtml5.info/offline.html).
+8. Buy a [domain name](http://lifehacker.com/5683682/five-best-domain-name-registrars) and [web hosting](http://webmasters.stackexchange.com/questions/20838/how-to-find-web-hosting-that-meets-my-requirements) or host your site with [GitHub Pages](http://pages.github.com/).
+9. Add measurements with [Google Analytics](https://www.google.com/analytics/).
+10. Add [Twitter](https://twitter.com/about/resources/buttons), [Facebook](http://developers.facebook.com/docs/reference/plugins/like/), and [Google+](http://www.google.com/webmasters/+1/button/) buttons to your site.
+11. Automate [your Help Desk workflow](https://developers.google.com/apps-script/articles/helpdesk_tutorial).
 
 ## References
 1. [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
