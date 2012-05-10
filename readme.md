@@ -41,3 +41,9 @@ This project was created for a guest lecture about mobile web applications for t
 7. [The Most Important Parts of HTML5](http://blog.n01se.net/?p=375)
 8. [caniuse.com](http://caniuse.com/)
 9. [Dive Into HTML5](http://diveintohtml5.info/)
+10. <http://jsfiddle.net/LNysj/>
+11. <http://lea.verou.me/scripts/unicode.html>
+12. <http://jsfiddle.net/5QSz4/>
+13. <http://www.tumblr.com/tagged/kaomoji>
+14. <http://www.unicode.org/~scherer/emoji4unicode/20090804/utc.html>
+15. <http://code.iamcal.com/php/emoji/>
