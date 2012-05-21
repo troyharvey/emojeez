@@ -47,3 +47,6 @@ This project was created for a guest lecture about mobile web applications for t
 13. <http://www.tumblr.com/tagged/kaomoji>
 14. <http://www.unicode.org/~scherer/emoji4unicode/20090804/utc.html>
 15. <http://code.iamcal.com/php/emoji/>
+16. <http://www.japaneseemoticons.net/all-japanese-emoticons/>
+17. <http://www.tumblr.com/tagged/kaomoji>
+18. <http://superkawaiiemoticon.tumblr.com/page/2>
